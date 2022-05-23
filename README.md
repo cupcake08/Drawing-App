@@ -1,16 +1,20 @@
 # custom_painter
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+<table>
+    <tr>
+        <th>Home Screen</th>
+        <th>Color Picker</th>
+    </tr>
+    <tr>
+        <td><img src="screenshots/home_screen.jpg"></td>
+        <td><img src="screenshots/color_picker.jpg"></td>
+    </tr>
+</table>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<style>
+    th,td {
+        border: 3px solid;
+    }
+</style>
